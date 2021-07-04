@@ -19,14 +19,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc5208ff-3f89-41bf-84bd-7b4dd4f0e5b8" name="Default Changelist" comment="another change">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dc5208ff-3f89-41bf-84bd-7b4dd4f0e5b8" name="Default Changelist" comment="try index">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1625122683076" duration="1288000" />
       <workItem from="1625148134708" duration="180000" />
       <workItem from="1625221903472" duration="337000" />
-      <workItem from="1625367597128" duration="1282000" />
+      <workItem from="1625367597128" duration="1574000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1625367773008</created>
@@ -100,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625368198488</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="try index">
+      <created>1625370548464</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625370548464</updated>
+    </task>
+    <task id="LOCAL-00006" summary="try index">
+      <created>1625370762511</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625370762511</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +132,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -133,13 +148,15 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="anothrt" />
     <MESSAGE value="another change" />
-    <option name="LAST_COMMIT_MESSAGE" value="another change" />
+    <MESSAGE value="try index" />
+    <option name="LAST_COMMIT_MESSAGE" value="try index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1625368608419">
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1625370768111">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.103.1116.756@0.0.1440.900" timestamp="1625368608419" />
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1625370768111" />
     <state x="511" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625368236878">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
